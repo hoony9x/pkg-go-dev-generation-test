@@ -6,6 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
+// TestSample tests sample object
 func TestSample(t *testing.T) {
 	tests := []struct {
 		name     string
